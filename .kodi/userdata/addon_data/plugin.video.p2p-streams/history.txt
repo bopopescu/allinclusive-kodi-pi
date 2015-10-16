@@ -1,0 +1,16 @@
+[B][COLOR orange]Protv [/B][/COLOR](N/A)|sop://broker.sopcast.com:3912/149252|2|/home/osmc/.kodi/addons/plugin.video.p2p-streams/resources/art/sopcast_logo.jpg
+[B][COLOR orange]Tvr 1 [/B][/COLOR](N/A)|sop://broker.sopcast.com:3912/148085|2|/home/osmc/.kodi/addons/plugin.video.p2p-streams/resources/art/sopcast_logo.jpg
+Direct URL ( sop://digi)|sop://digi|2|/home/osmc/.kodi/addons/plugin.video.p2p-streams/resources/art/sopcast_logo.jpg
+[B][COLOR orange]Tvr 1 [/B][/COLOR](N/A)|sop://broker.sopcast.com:3912/148085|2|/home/osmc/.kodi/addons/plugin.video.p2p-streams/resources/art/sopcast_logo.jpg
+[B][COLOR orange]Protv (Offline) [/B][/COLOR](N/A)|sop://broker.sopcast.com:3912/151638|2|/home/osmc/.kodi/addons/plugin.video.p2p-streams/resources/art/sopcast_logo.jpg
+[B][COLOR orange]National Geographic [/B][/COLOR](N/A)|sop://broker.sopcast.com:3912/256326|2|/home/osmc/.kodi/addons/plugin.video.p2p-streams/resources/art/sopcast_logo.jpg
+[B][COLOR orange]Antena3 [/B][/COLOR](N/A)|sop://broker.sopcast.com:3912/148084|2|/home/osmc/.kodi/addons/plugin.video.p2p-streams/resources/art/sopcast_logo.jpg
+[B][COLOR orange]Realitatea Tv [/B][/COLOR](N/A)|sop://broker.sopcast.com:3912/253036|2|/home/osmc/.kodi/addons/plugin.video.p2p-streams/resources/art/sopcast_logo.jpg
+[B][COLOR orange]Antena 1 [/B][/COLOR](N/A)|sop://broker.sopcast.com:3912/149257|2|/home/osmc/.kodi/addons/plugin.video.p2p-streams/resources/art/sopcast_logo.jpg
+[B][COLOR orange]Protv [/B][/COLOR](N/A)|sop://178.175.143.195:3912/151929|2|/home/osmc/.kodi/addons/plugin.video.p2p-streams/resources/art/sopcast_logo.jpg
+[B][COLOR orange]protv (sop://178.175.143.195:3912/151929)[/B][/COLOR]|sop://178.175.143.195:3912/151929|2|/home/osmc/.kodi/addons/plugin.video.p2p-streams/resources/art/sopcast_logo.jpg
+[B][COLOR orange]antena1 (sop://178.175.143.195:3912/149257)[/B][/COLOR]|sop://178.175.143.195:3912/149257|2|/home/osmc/.kodi/addons/plugin.video.p2p-streams/resources/art/sopcast_logo.jpg
+Direct ID ( 151929)|sop://broker.sopcast.com:3912/151929|2|/home/osmc/.kodi/addons/plugin.video.p2p-streams/resources/art/sopcast_logo.jpg
+Direct ID ( 151380)|sop://broker.sopcast.com:3912/151380|2|/home/osmc/.kodi/addons/plugin.video.p2p-streams/resources/art/sopcast_logo.jpg
+Direct ID ( 15180)|sop://broker.sopcast.com:3912/15180|2|/home/osmc/.kodi/addons/plugin.video.p2p-streams/resources/art/sopcast_logo.jpg
+Direct ID ( 1496214962)|sop://broker.sopcast.com:3912/1496214962|2|/home/osmc/.kodi/addons/plugin.video.p2p-streams/resources/art/sopcast_logo.jpg

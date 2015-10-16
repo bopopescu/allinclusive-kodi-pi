@@ -1,0 +1,13 @@
+<settings>
+    <setting id="aspect_ratio2" value="1" />
+    <setting id="black_background" value="false" />
+    <setting id="dont_show_help" value="false" />
+    <setting id="download_path" value="" />
+    <setting id="enable_AtlanticInFocus" value="true" />
+    <setting id="enable_SacBeeFrame" value="true" />
+    <setting id="enable_TheBigPictures" value="true" />
+    <setting id="enable_TotallyCoolPix" value="true" />
+    <setting id="enable_WallStreetJournal" value="true" />
+    <setting id="random_slideshow" value="false" />
+    <setting id="show_arrows" value="true" />
+</settings>

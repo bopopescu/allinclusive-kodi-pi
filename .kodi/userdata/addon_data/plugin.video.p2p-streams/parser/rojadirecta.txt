@@ -1,0 +1,1 @@
+{'url': 'http://parsersforp2pstreams.googlecode.com/svn/trunk/%20parsersforp2pstreams/rojadirecta.tar.gz', 'md5_url': 'http://parsersforp2pstreams.googlecode.com/svn/trunk/%20parsersforp2pstreams/rojadirecta.md5', 'md5': '7c5fa9d8cf84e50049a5d005c95df7f9  rojadirecta.tar.gz\n\n'}

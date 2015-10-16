@@ -1,0 +1,1 @@
+protv (sop://178.175.143.195:3912/151929)|2|sop://178.175.143.195:3912/151929|/home/osmc/.kodi/addons/plugin.video.p2p-streams/resources/art/sopcast_logo.jpg

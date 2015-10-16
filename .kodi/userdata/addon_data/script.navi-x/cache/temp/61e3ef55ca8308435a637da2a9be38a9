@@ -1,0 +1,8 @@
+version=7
+logo=http://www.navixtreme.com/images/backgrounds/thumb_natgeo.jpg
+background=http://www.navixtreme.com/images/backgrounds/bkg_natgeo.jpg
+title=National Geographic
+
+type=playlist
+name=Kids Video
+URL=http://www.navixtreme.com/scrape/natgeo/section/kids

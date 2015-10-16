@@ -1,0 +1,1 @@
+{'url': 'http://parsersforp2pstreams.googlecode.com/svn/trunk/%20parsersforp2pstreams/livefootballws.tar.gz', 'md5_url': 'http://parsersforp2pstreams.googlecode.com/svn/trunk/%20parsersforp2pstreams/livefootballws.md5', 'md5': '1bc8183f6fef4c6f30bba1d55af70246  livefootballws.tar.gz\n'}

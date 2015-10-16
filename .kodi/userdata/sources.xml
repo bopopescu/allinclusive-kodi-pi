@@ -1,0 +1,27 @@
+<sources>
+    <programs>
+        <default pathversion="1"></default>
+    </programs>
+    <video>
+        <default pathversion="1"></default>
+        <source>
+            <name>filme</name>
+            <path pathversion="1">smb://AP/filme/</path>
+            <allowsharing>true</allowsharing>
+        </source>
+    </video>
+    <music>
+        <default pathversion="1"></default>
+    </music>
+    <pictures>
+        <default pathversion="1"></default>
+    </pictures>
+    <files>
+        <default pathversion="1"></default>
+        <source>
+            <name>fusion</name>
+            <path pathversion="1">http://fusion.tvaddons.ag/</path>
+            <allowsharing>true</allowsharing>
+        </source>
+    </files>
+</sources>

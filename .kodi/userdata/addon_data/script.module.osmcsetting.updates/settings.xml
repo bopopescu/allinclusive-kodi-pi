@@ -1,0 +1,15 @@
+<settings>
+    <setting id="check_day" value="0" />
+    <setting id="check_freq" value="1" />
+    <setting id="check_hour" value="12" />
+    <setting id="check_minute" value="0" />
+    <setting id="check_time" value="0" />
+    <setting id="check_weekday" value="1" />
+    <setting id="home_prompts_only" value="false" />
+    <setting id="on_upd_detected" value="0" />
+    <setting id="suppress_icon" value="false" />
+    <setting id="suppress_progress" value="false" />
+    <setting id="update_now" value="" />
+    <setting id="update_on_idle" value="true" />
+    <setting id="walkthru" value="" />
+</settings>

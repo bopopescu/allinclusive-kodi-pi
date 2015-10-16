@@ -1,0 +1,1 @@
+{'url': 'http://parsersforp2pstreams.googlecode.com/svn/trunk/%20parsersforp2pstreams/torrenttvruall.tar.gz', 'md5_url': 'http://parsersforp2pstreams.googlecode.com/svn/trunk/%20parsersforp2pstreams/torrenttvruall.md5', 'md5': 'd7b2e0a7b7ed7aa85d6f520be1d5a8ae   torrenttvruall.tar.gz\n\n'}

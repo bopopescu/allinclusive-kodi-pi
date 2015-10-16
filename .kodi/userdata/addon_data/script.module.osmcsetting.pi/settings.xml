@@ -1,0 +1,39 @@
+<settings>
+    <setting id="codec_check" value="MPG2=disabled, WVC1=disabled" />
+    <setting id="dacplus" value="false" />
+    <setting id="decode_MPG2" value="" />
+    <setting id="decode_WVC1" value="" />
+    <setting id="device_tree" value="None" />
+    <setting id="display_rotate" value="0" />
+    <setting id="dtoverlay" value="None" />
+    <setting id="gpio_in_pin" value="18" />
+    <setting id="gpio_in_pull" value="off" />
+    <setting id="gpio_out_pin" value="17" />
+    <setting id="gpu_mem" value="remove" />
+    <setting id="gpu_mem_1024" value="256" />
+    <setting id="gpu_mem_256" value="112" />
+    <setting id="gpu_mem_512" value="128" />
+    <setting id="hdmi_boost" value="0" />
+    <setting id="hdmi_group" value="0" />
+    <setting id="hdmi_ignore_cec" value="false" />
+    <setting id="hdmi_ignore_cec_init" value="false" />
+    <setting id="hdmi_ignore_cec_init " value="false" />
+    <setting id="hdmi_ignore_edid" value="false" />
+    <setting id="hdmi_mode" value="0" />
+    <setting id="hdmi_pixel_encoding" value="0" />
+    <setting id="hdmi_safe" value="false" />
+    <setting id="lirc-rpi-overlay" value="false" />
+    <setting id="max_usb_current" value="false" />
+    <setting id="max_usb_current_warning" value="" />
+    <setting id="mem_free" value="" />
+    <setting id="non_addon_settings" value="" />
+    <setting id="sdtv_aspect" value="0" />
+    <setting id="sdtv_mode" value="2" />
+    <setting id="serial" value="00000000669c91c9" />
+    <setting id="soundcard_dac" value="0" />
+    <setting id="soundcard_dacplus" value="0" />
+    <setting id="spi-bcm2835-overlay" value="false" />
+    <setting id="store_hdmi_to_file" value="false" />
+    <setting id="suppress_dtoverlay" value="false" />
+    <setting id="w1gpio" value="0" />
+</settings>

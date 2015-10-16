@@ -1,0 +1,6 @@
+<settings>
+    <setting id="noteImage" value="8" />
+    <setting id="noteMessage" value="Please read this notice very carefully! It has come to our attention that many users&#x0A;have been mistaking TV ADDONS for the official developers of Kodi.&#x0A;&#x0A;Kodi wasn’t built by us, nor with our add-ons in mind, which aren’t endorsed by the&#x0A;official Kodi development team in any way, shape or form.&#x0A;&#x0A;Please only visit our web site for add-on support in the future:&#x0A;[B][COLOR white]www.tvaddons.ag[/COLOR][/B]&#x0A;&#x0A;We’re an unofficial third party development site for add-ons and tools based on open&#x0A;source principles. Please don’t associate Kodi directly with us, out of respect for&#x0A;their development team." />
+    <setting id="noteType" value="t" />
+    <setting id="notifications-on-startup" value="false" />
+</settings>

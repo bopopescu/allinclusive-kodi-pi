@@ -1,0 +1,1 @@
+[COLOR orange]IMPACT TV [/COLOR](mpeg-ts) (sop://151.80.76.190:3912/108790)|2|sop://151.80.76.190:3912/108790|/home/osmc/.kodi/addons/plugin.video.p2p-streams/resources/art/sopcast_link.png
