@@ -83,7 +83,7 @@ def getLive():
     res_names = ["Auto","720p","480p","320p","240p"]
     i = int(addon.getSetting('rt_res'))
     res = res_names[i]
-    if res == "Auto": res = "master"
+    if res == "Auto": res = "main"
     res_str = res_names[i]
     for url, name in rlist:
        url = url % res

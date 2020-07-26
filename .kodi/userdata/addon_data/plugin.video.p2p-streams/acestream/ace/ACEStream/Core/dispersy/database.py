@@ -17,7 +17,7 @@ class Database(Singleton):
         if not temp_store == 3:
             self._cursor.execute(u'PRAGMA temp_store = 3')
         try:
-            count, = self.execute(u"SELECT COUNT(1) FROM sqlite_master WHERE type = 'table' AND name = 'option'").next()
+            count, = self.execute(u"SELECT COUNT(1) FROM sqlite_main WHERE type = 'table' AND name = 'option'").next()
         except StopIteration:
             raise RuntimeError()
 

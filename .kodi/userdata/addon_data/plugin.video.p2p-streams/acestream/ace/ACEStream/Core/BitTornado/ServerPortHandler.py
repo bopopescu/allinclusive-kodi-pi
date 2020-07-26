@@ -225,7 +225,7 @@ class MultiHandler:
 
     def __init__(self, rawserver, doneflag):
         self.rawserver = rawserver
-        self.masterdoneflag = doneflag
+        self.maindoneflag = doneflag
         self.singlerawservers = {}
         self.connections = {}
         self.taskqueues = {}
